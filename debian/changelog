@@ -1,4 +1,4 @@
-genesis-metapackages (0.1) UNRELEASED; urgency=medium
+genesis-metapackages (0.1) xenial; urgency=medium
 
   * Initial Release.
 
