@@ -1,3 +1,10 @@
+genesis-metapackages (0.2) xenial; urgency=medium
+
+  [ Marti Bolivar ]
+  * debian/control: remove unnecessary python-yaml
+
+ -- Ricardo Salveti <ricardo.salveti@linaro.org>  Fri, 12 May 2017 11:38:29 -0300
+
 genesis-metapackages (0.1) xenial; urgency=medium
 
   * Initial Release.
