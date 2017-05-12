@@ -1,3 +1,9 @@
+genesis-metapackages (0.3) UNRELEASED; urgency=medium
+
+  * genesis-dev: also depend on sudo
+
+ -- Ricardo Salveti <ricardo.salveti@linaro.org>  Fri, 12 May 2017 13:24:13 -0300
+
 genesis-metapackages (0.2) xenial; urgency=medium
 
   [ Marti Bolivar ]

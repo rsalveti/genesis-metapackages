@@ -26,6 +26,7 @@ Depends: bzip2,
          python3-yaml,
          python3-crypto,
          repo,
+         sudo,
          ${misc:Depends}
 Description: Genesis development metapackage
  This metapackage provides the dependencies required by Genesis.
