@@ -1,4 +1,4 @@
-genesis-metapackages (0.5) UNRELEASED; urgency=medium
+genesis-metapackages (0.5) xenial; urgency=medium
 
   * genesis-dev: add dependencies for imgtool.py
 
