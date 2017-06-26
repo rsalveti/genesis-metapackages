@@ -1,3 +1,9 @@
+genesis-metapackages (0.5) UNRELEASED; urgency=medium
+
+  * genesis-dev: add dependencies for imgtool.py
+
+ -- Ricardo Salveti <ricardo.salveti@linaro.org>  Mon, 26 Jun 2017 19:41:12 -0300
+
 genesis-metapackages (0.4) xenial; urgency=medium
 
   * genesis-dev: also depend on python3-sphinx-rtd-theme
